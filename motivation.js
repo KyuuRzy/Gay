@@ -20,6 +20,9 @@ var motivations = [
   `percaya atau tidak percaya kita hanya bisa membuktikannya dengan hasil bukan sekedar kata
 
   -RexxzynXD`,
+  `Dalam dunia terkutuk ini, kedamaian dimana setiap orang saling mengerti hanyalah sebuah angan-angan.
+
+  -Surya`,
 ];
 
 var randomMotivation =
