@@ -32,8 +32,7 @@ var motivations = [
 `Gak Takut Di Benci dan gak takut di musuhi, saya solo pun masih bisa berdiri."
 
 "KyuuRzy`,
-  
-];
+ ];
 
 
 var randomMotivation =
