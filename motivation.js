@@ -8,7 +8,7 @@ var motivations = [
   "percaya atau tidak percaya kita hanya bisa membuktikannya dengan hasil bukan sekedar kata\n\n𝙍𝙚𝙭𝙭𝙯𝙮𝙣𝙓𝘿",
   "Dalam dunia terkutuk ini, kedamaian dimana setiap orang saling mengerti hanyalah sebuah angan-angan.\n\n𝙎𝙪𝙧𝙮𝙖",
   "apapun masalahmu tetap berada di jalan Allah sobat.\n\n𝙃𝙮𝙪𝙪 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡",
-  "walau sendirian saya tidak akan Tumbang\n\n𝙆𝙮𝙪𝙪𝙍𝙯𝙮,
+  "walau sendirian saya tidak akan Tumbang\n\n𝙆𝙮𝙪𝙪𝙍𝙯𝙮",
   "Gak Takut Di Benci dan gak takut di musuhi, saya solo pun masih bisa berdiri.\n\n𝙆𝙮𝙪𝙪𝙍𝙯𝙮",
  ];
 
