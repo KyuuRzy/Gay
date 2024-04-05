@@ -23,6 +23,9 @@ var motivations = [
   `Dalam dunia terkutuk ini, kedamaian dimana setiap orang saling mengerti hanyalah sebuah angan-angan.
 
   -Surya`,
+  `apapun masalahmu tetap berada di jalan Allah sobat."
+
+~ Friend Kiki`
 ];
 
 var randomMotivation =
