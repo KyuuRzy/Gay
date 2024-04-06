@@ -16,6 +16,8 @@ var motivations = [
   "apapun masalahmu tetap berada di jalan Allah sobat.\n\n𝗛𝘆𝘂𝘂 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
   "Hidup adalah Pilihan Jika Kau Tak memilih itu adalah pilihanmu\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
   "walau sendirian saya tidak akan Tumbang\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
+  "jangan biarkan kemiskinan membatasi mimpimu\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
+  "jangan biarkan kemiskinan membatasi imajinasimu\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
   "Gak Takut Di Benci dan gak takut di musuhi, saya solo pun masih bisa berdiri.\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
  ];
 
