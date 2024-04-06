@@ -2,7 +2,7 @@ var motivations = [
   "menjadi diri sendiri lebih baik dari pada menjadi orang lain karena kita tidak tahu resiko apa yang di ambil orang lain disaat kita ingin menjadi dirinya\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
   "orang lain hanya bisa menilai sifat,ekonomi, karakteristik kita, tapi mereka tidak bisa tidak bisa menilai sifat, ekonomi, karakteristik mereka Sendiri\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
   "berbohong terhadap kejujuran bukan lah hal yang buruk\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
-  "Jika Belum Mendapatkan Yang Baik, Berarti Dirimu Sendiri Belum Baik",
+  "Jika Belum Mendapatkan Yang Baik, Berarti Dirimu Sendiri Belum Baik\n\n𝗔𝗻-𝗻𝘂𝗿:𝟮𝟲",
   "Balas dendam dengan cara yang bodoh adalah titik di mana kamu membalasnya dengan titik buta tidak menemukan cara lainya\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
   "diungkit atau mengungkit lebih untung mana?, diungkit? atau mengungkit? Dua duanya tidak untung terhadap dirimu sendiri memilih diam adalah cara yang bagus agar dua hal itu tidak terjadi\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
   "Nothing lasts forever, we can change the future\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
