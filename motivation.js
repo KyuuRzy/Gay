@@ -5,6 +5,7 @@ var motivations = [
   "Tidak ada kata kata. Yang penting bukti nyata\n\n𝗡𝗮𝗻𝘀 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹",
   "jangan jadi nada dering, untuk orang yang mode hening\n\n𝗠𝗮𝘀 𝗞𝗶𝘇𝘆𝘆",
   "Malas bersaing, setidaknya codingan ku running tanpa warning.\n\n𝗠𝗮𝘀 𝗞𝗶𝘇𝘆𝘆",
+  "Gak usah banyak kata katanya hanya butuh buktinya ,karna kita butuhnya realita bukan cuma kosakata",
   "Gas Terus Abangkuh🔥! Jalanan kita punya, mimpi kita raih!💯\n\n𝗧𝗵𝗲𝗭𝗲𝘁𝘀𝘂𝗯𝗼𝗫𝘆𝗴𝗲𝗻",
   "Jika Belum Mendapatkan Yang Baik, Berarti Dirimu Sendiri Belum Baik\n\n𝗔𝗻-𝗻𝘂𝗿:𝟮𝟲",
   "Balas dendam dengan cara yang bodoh adalah titik di mana kamu membalasnya dengan titik buta tidak menemukan cara lainya\n\n𝗥𝗲𝘅𝘅𝘇𝘆𝗻𝗫𝗗",
