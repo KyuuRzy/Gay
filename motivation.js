@@ -19,7 +19,8 @@ var motivations = [
   "jangan biarkan kemiskinan membatasi mimpimu\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
   "jangan biarkan kemiskinan membatasi imajinasimu\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
   "Gak Takut Di Benci dan gak takut di musuhi, saya solo pun masih bisa berdiri.\n\n𝗞𝘆𝘂𝘂𝗥𝘇𝘆",
-  "Waktu Adalah Kado Terbaik, Saat Seseorang Memberikan Waktunya, Dia Memberikan Sebagian Dari Hidupnya Yang Tak Bisa Di Ambil Kembali\n\n-YogaaKatsu!",];
+  "Waktu Adalah Kado Terbaik, Saat Seseorang Memberikan Waktunya, Dia Memberikan Sebagian Dari Hidupnya Yang Tak Bisa Di Ambil Kembali\n\n-𝗬𝗼𝗴𝗮𝗮𝗞𝗮𝘁𝘀𝘂!",
+];
 
 
 var randomMotivation =
